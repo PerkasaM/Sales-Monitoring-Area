@@ -1,4 +1,4 @@
-# SOM Monitoring Daily
+# Sales Monitoring Automation
 
 Automation monitoring dan rekap data SOM menggunakan Python dan Pandas untuk membantu proses analisa dan evaluasi pencapaian sales secara lebih cepat dan akurat.
 
